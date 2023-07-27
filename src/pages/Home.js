@@ -12,7 +12,7 @@ function Home() {
         <div className="prompt">
           <p>A Full Stack Developer with a passion of learning and creating.</p>
           <a href="https://www.linkedin.com/in/andy-loredo/"><LinkedInIcon /></a>
-          <a href="https://www.linkedin.com/in/andy-loredo/"><GitHubIcon /></a>
+          <a href="https://github.com/ndy-lopez/"><GitHubIcon /></a>
           <a href="mailto:ndy.loredo@gmail.com"><EmailIcon /></a>
         </div>
       </div>
