@@ -1,4 +1,3 @@
-import React from 'react'
 import expensetracker from '../assets/expensetracker.png'
 import investmentcalculator from '../assets/investmentcalculator.png'
 import mapt from '../assets/mapt.png'
