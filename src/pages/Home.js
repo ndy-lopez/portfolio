@@ -11,9 +11,9 @@ function Home() {
         <h2>Hi, my name is Andy</h2>
         <div className="prompt">
           <p>A Full Stack Developer with a passion of learning and creating.</p>
-          <LinkedInIcon />
-          <GitHubIcon />
-          <EmailIcon />
+          <a href="https://www.linkedin.com/in/andy-loredo/"><LinkedInIcon /></a>
+          <a href="https://www.linkedin.com/in/andy-loredo/"><GitHubIcon /></a>
+          <a href="mailto:ndy.loredo@gmail.com"><EmailIcon /></a>
         </div>
       </div>
       <div className="skills">
