@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio website! 
+This website showcases some of the projects I've been working on, demonstrating my skills and passion for software development. 
 
 ## Available Scripts
 
