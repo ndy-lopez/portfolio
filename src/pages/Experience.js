@@ -61,7 +61,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Credit Operations Consultant
+            Credit Operations Consultant - Rogers Communications
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Montréal, QC
