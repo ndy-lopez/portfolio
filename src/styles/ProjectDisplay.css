@@ -8,7 +8,7 @@
 }
 
 .title {
-  margin-top: 60px;
+  margin-top: 200px;
   color: #3e497a;
   font-size: 35px;
 }
@@ -36,11 +36,8 @@
 
 @media (max-width: 768px) {
   .project {
-    height: auto;
-  }
-
-  .project h1 {
-    font-size: 25px;
+    height: 100%;
+    margin-top: -150px;
   }
 
   .project img {
@@ -48,7 +45,7 @@
   }
 
   .project p {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .project svg {
