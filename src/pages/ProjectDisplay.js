@@ -9,11 +9,12 @@ function ProjectDisplay() {
   const project = ProjectList[id];
   return (
     <div className="project">
-      <h1>{project.name}</h1>
+      <div className="title"><h1>{project.name}</h1></div>
       <img src={project.image} alt="Project ScreenShot"></img>
       <p>
         <b>Skills:</b> {project.skills}
       </p>
+      <p style={{ fontSize: '30px' }}>{project.description}</p>
       <a href={project.gh}><GitHubIcon /></a>
     </div>
   );

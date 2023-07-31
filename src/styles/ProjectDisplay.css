@@ -7,11 +7,18 @@
   flex-direction: column;
 }
 
+.title {
+  margin-top: 60px;
+  color: #3e497a;
+  font-size: 35px;
+}
+
 .project h1 {
   margin-top: 50px;
   color: #3e497a;
   font-size: 35px;
 }
+
 .project img {
   width: 700px;
   border-radius: 10px;
@@ -25,4 +32,29 @@
 .project svg {
   font-size: 60px;
   color: #3e497a;
+}
+
+@media (max-width: 768px) {
+  .project {
+    height: auto;
+  }
+
+  .project h1 {
+    font-size: 25px;
+  }
+
+  .project img {
+    width: 100%;
+  }
+
+  .project p {
+    font-size: 30px;
+  }
+
+  .project svg {
+    font-size: 40px;
+  }
+  .title {
+    font-size: 25px;
+  }
 }
