@@ -15,7 +15,7 @@ function ProjectDisplay() {
         <b>Skills:</b> {project.skills}
       </p>
       <p style={{ fontSize: '30px' }}>{project.description}</p>
-      <a href={project.gh}><GitHubIcon /></a>
+      <a href={project.gh} target="_blank" rel="noopener noreferrer"><GitHubIcon /></a>
     </div>
   );
 }
