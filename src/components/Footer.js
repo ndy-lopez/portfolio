@@ -8,13 +8,13 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://www.linkedin.com/in/andy-loredo/">
+        <a href="https://www.linkedin.com/in/andy-lpz/" target="_blank" rel="noopener noreferrer">
           <LinkedInIcon />
         </a>
-        <a href="https://github.com/ndy-lopez/">
+        <a href="https://github.com/ndy-lopez/" target="_blank" rel="noopener noreferrer">
           <GitHubIcon />
         </a>
-        <a href="mailto:ndy.loredo@gmail.com">
+        <a href="mailto:ndy.loredo@gmail.com" target="_blank" rel="noopener noreferrer">
           <EmailIcon />
         </a>
       </div>

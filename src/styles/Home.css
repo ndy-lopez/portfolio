@@ -16,13 +16,15 @@
   background: rgb(48,125,210);
   background: linear-gradient(34deg, rgba(48,125,210,1) 53%, rgba(115,108,144,1) 100%);
   color: #f0f0f0;
+  overflow: hidden;
+
 }
 
 .about h2 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 80px;
   color: #e9d35b;
-  height: 50px;
+  line-height: 1.2;
 }
 
 .about .prompt {
@@ -60,6 +62,7 @@
 @media only screen and (max-width: 600px) {
   .about h2 {
     font-size: 40px;
+    max-height: 100px;
   }
 
   .about .prompt {
